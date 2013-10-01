@@ -1,0 +1,18 @@
+{
+	"packages": {
+		"robots.txt": {
+			"type": "unzip-docroot",
+			"data": {
+				"user": "vignette",
+				"zip": "robots.txt.zip",
+				"docrootType":"static-live",
+				"locationInDocroot":"Errors"
+			}
+		}
+  	},
+ 	"recipes": {
+		"default": {
+			"actions":["robots.txt.deploy"]
+		}
+ 	 }
+}
