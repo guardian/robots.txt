@@ -20,6 +20,7 @@ Disallow: /discussion/your-profile
 Disallow: /discussion/your-comments
 Disallow: /discussion/edit-profile
 Disallow: /discussion/search/comments
+Disallow: /discussion/*
 Disallow: /search
 Disallow: /music/artist/*
 Disallow: /music/album/*
