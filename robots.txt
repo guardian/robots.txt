@@ -57,5 +57,6 @@ Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2010.xml
 Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2011.xml
 Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2012.xml
 Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2013.xml
+Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2014.xml
 Sitemap: http://www.theguardian.com/videositemap.xml
 Sitemap: http://spiderbytes.theguardian.com/editionalised-sitemap.xml
