@@ -39,6 +39,7 @@ Disallow: /podcasts
 Disallow: /global$
 Disallow: /*/feedarticle/*
 Disallow: /travel/2013/aug/22/been-there-readers-competition?*
+Disallow: /preference/*
 
 Sitemap: http://www.theguardian.com/newssitemap.xml
 Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-1998.xml
