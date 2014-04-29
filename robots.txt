@@ -41,6 +41,7 @@ Disallow: /*/feedarticle/*
 Disallow: /travel/2013/aug/22/been-there-readers-competition?*
 Disallow: /preference/*
 Disallow: /59666047/
+Disallow: /print/
 
 User-agent: Mediapartners-Google 
 Disallow:
