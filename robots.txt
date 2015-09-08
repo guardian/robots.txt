@@ -28,7 +28,7 @@ Disallow: /books/data/*
 Disallow: /settings/
 Disallow: /embed/
 Disallow: /*styles/js-on.css$
-Disallow: /sport/olympics/2008/events/* 
+Disallow: /sport/olympics/2008/events/*
 Disallow: /sport/olympics/2008/medals/*
 Disallow: /f/healthcheck
 Disallow: /sections
@@ -44,27 +44,5 @@ Disallow: /59666047/
 Disallow: /print/
 Disallow: /info/tech-feedback
 
-User-agent: Mediapartners-Google 
+User-agent: Mediapartners-Google
 Disallow:
-
-Sitemap: http://www.theguardian.com/newssitemap.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-1998.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-1999.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2000.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2001.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2002.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2003.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2004.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2005.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2006.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2007.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2008.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2009.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2010.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2011.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2012.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2013.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2014.xml
-Sitemap: http://spiderbytes.theguardian.com/sitemap/sitemap-2015.xml
-Sitemap: http://www.theguardian.com/videositemap.xml
-Sitemap: http://spiderbytes.theguardian.com/editionalised-sitemap.xml
